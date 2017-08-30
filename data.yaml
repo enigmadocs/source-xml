@@ -1,0 +1,37 @@
+extract:
+  - step: Read XML file
+    action: extract.source.http.DownloadFiles
+    fetch:
+      - 'http://127.0.0.1:8080/plants.xml'
+
+  - step: Extract desired fields
+    action: extract.formats.xml.ReadRecords
+    record_selector: /CATALOG/PLANT
+    fields:
+      - COMMON
+      - BOTANICAL
+      - AVAILABILITY/IN-STORE
+
+transform:
+  - step: Set schema for output table
+    action: transform.schema.SetSchema
+    fields:
+      - name: Common
+        type: string
+      - name: Botanical
+        type: string
+      - name: Availability (in-store)
+        type: date
+
+  - step: Convert availability date
+    action: transform.conversion.ParseDatetime
+    fields:
+      - field_name: Availability (in-store)
+        formats:
+          - "MMDDYY"
+        date_only: true
+
+load:
+  - step: Output to local CSV file
+    action: load.OutputCSV
+    repository: .
