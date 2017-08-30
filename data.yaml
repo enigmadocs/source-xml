@@ -2,7 +2,7 @@ extract:
   - step: Read XML file
     action: extract.source.http.DownloadFiles
     fetch:
-      - 'http://127.0.0.1:8080/plants.xml'
+      - 'https://raw.githubusercontent.com/enigmadocs/source-xml/master/plants.xml'
 
   - step: Extract desired fields
     action: extract.formats.xml.ReadRecords

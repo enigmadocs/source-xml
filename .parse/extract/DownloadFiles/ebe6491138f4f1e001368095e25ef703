@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <PLANT>
+    <COMMON>Bloodroot</COMMON>
+    <BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$2.44</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Columbine</COMMON>
+    <BOTANICAL>Aquilegia canadensis</BOTANICAL>
+    <ZONE>3</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$9.37</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Marsh Marigold</COMMON>
+    <BOTANICAL>Caltha palustris</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Sunny</LIGHT>
+    <PRICE>$6.81</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Cowslip</COMMON>
+    <BOTANICAL>Caltha palustris</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$9.90</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Dutchman's-Breeches</COMMON>
+    <BOTANICAL>Dicentra cucullaria</BOTANICAL>
+    <ZONE>3</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$6.44</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Ginger, Wild</COMMON>
+    <BOTANICAL>Asarum canadense</BOTANICAL>
+    <ZONE>3</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$9.03</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Hepatica</COMMON>
+    <BOTANICAL>Hepatica americana</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$4.45</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Liverleaf</COMMON>
+    <BOTANICAL>Hepatica americana</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$3.99</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Jack-In-The-Pulpit</COMMON>
+    <BOTANICAL>Arisaema triphyllum</BOTANICAL>
+    <ZONE>4</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$3.23</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Mayapple</COMMON>
+    <BOTANICAL>Podophyllum peltatum</BOTANICAL>
+    <ZONE>3</ZONE>
+    <LIGHT>Mostly Shady</LIGHT>
+    <PRICE>$2.98</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+  <PLANT>
+    <COMMON>Phlox, Woodland</COMMON>
+    <BOTANICAL>Phlox divaricata</BOTANICAL>
+    <ZONE>3</ZONE>
+    <LIGHT>Sun or Shade</LIGHT>
+    <PRICE>$2.80</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+    </PLANT>
+  <PLANT>
+    <COMMON>Phlox, Blue</COMMON>
+    <BOTANICAL>Phlox divaricata</BOTANICAL>
+    <ZONE>3</ZONE>
+    <LIGHT>Sun or Shade</LIGHT>
+    <PRICE>$5.59</PRICE>
+    <AVAILABILITY>
+      <IN-STORE>033117</IN-STORE>
+      <ONLINE>031517</ONLINE>
+    </AVAILABILITY>
+  </PLANT>
+</CATALOG>
