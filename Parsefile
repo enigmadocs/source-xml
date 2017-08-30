@@ -4,7 +4,7 @@
 ###
 
 name: download-ftp
-description: "Download and flatten XML file"
+description: "Downloads and flattens an XML file"
 maintainers:
   - Peter Henderson <name@domain.com>
 version: "1.0.0"
